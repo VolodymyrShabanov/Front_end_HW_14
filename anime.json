@@ -1,6 +1,6 @@
 {
   "title": "One-Punch Man",
-  "poster": "Anime_OnePunchMan.jpg",
+  "poster": "https://github.com/VolodymyrShabanov/Front_end_HW_14/blob/27aaf6cebae0fe84ff62a331f283cfa71f75b232/Anime_OnePunchMan.jpg",
   "land": "Japan",
   "genre": ["Action", "Comedy", "Superhero"],
   "episodes": [
